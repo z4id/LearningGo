@@ -36,3 +36,10 @@
 - Naming Convention MixedCaps
 - How to run prgram
 - go mod - install/manage third party packages
+- Variadic Functions
+
+### OOP Concepts
+> Go is not object-oriented. So there is no inheritence and the only form of polymorphism in Go is interfaces.
+Go only support run time polymorphism through interfaces. Compile time polymorphism is not possible in Golang.
+
+Go doesn’t directly support method/function/operator overloading but variadic function provides a way of achieving the same with increased code complexity.
